@@ -1,4 +1,4 @@
-# Crypto-standards-guidelines
+# Crypto Standards and Recommendations
 
 | Abbr. | Description                                              |
 |-------|----------------------------------------------------------|
